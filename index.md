@@ -68,13 +68,15 @@
 ####एसएमएस प्रणाली:
 
 इन्टरनेट उपलब्ध नभएका सामन्य मोबाइल फोन प्रयोगकर्ताले सूचना प्राप्त गर्न एसएमएस प्रणालीको प्रयोग गरिने छ। एसएमएस मार्फत उपभोक्तालाई दुई प्रकारको सूचना प्राप्त हुनेछ: १. कागजी फारम भरि दिइएको दर्ता आवेदन स्वीकृत/अस्वीकृत भएको जानकारी। र २. इन्धन खरिद आवेदन स्वीकृत भएको जानकारी तथा QR कोड (उपभोक्ता आइडी, स्वीकृत भएको परिमाण, वितरणका लागि तोकिएको स्थान र मिति QR कोडमा हुनेछ।)
-<img src="https://github.com/himalikiran/A-Concept-Document-for-Fuel-Distribution-System/blob/gh-pages/images/mobile.png" height="100">
+![](https://github.com/himalikiran/A-Concept-Document-for-Fuel-Distribution-System/blob/gh-pages/images/mobile.png)
 
 ####इन्टरनेट इनेबल्ड QR कोड स्क्यानर (हार्डवेयर):
 
 पम्प र डिपोमा उपभोक्ताले देखाउने QR कोड स्क्यान गर्न र उनीहरुले देखाएको सूचना सहि छ छैन चेक गर्न QR कोड स्क्यानर राख्नु पर्ने हुन्छ। यो एउटा सामान्य यन्त्र हो, जुन आजभोली जुनसुकै सुपरमार्केटमा पनि सामानको संकेत र मुल्य स्क्यान गर्न प्रयोग गरिन्छ। यो स्क्यानरको प्रयोगले इन्धन बिक्रिको तथ्यांक पनि अध्यावधिक गर्न सहयोग पुग्दछ।
 उपभोक्ताले मोबाइल एप वा एसएमएसमा QR कोड देखाउन सम्भब नभए, प्रिन्ट गरि कागजी कुपनको रुपमा पम्प वा डिपोमा देखाउन सक्नेछन, जसलाई यहि स्क्यानरले सजिलै पढ्न सक्दछ।
+
 ![QR कोड स्क्यानर](https://github.com/himalikiran/A-Concept-Document-for-Fuel-Distribution-System/blob/gh-pages/images/bar-code-scanners-250x250.jpg)
+
 ![QR कोड](https://github.com/himalikiran/A-Concept-Document-for-Fuel-Distribution-System/blob/gh-pages/images/qr-code.png)
 
 *ग्राफिक्सका लागि @rochan_ लाई धन्यावाद!*
