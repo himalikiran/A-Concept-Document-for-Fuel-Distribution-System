@@ -81,4 +81,4 @@
 
 ![QR कोड स्क्यानर](https://github.com/himalikiran/A-Concept-Document-for-Fuel-Distribution-System/blob/gh-pages/images/bar-code-scanners-250x250.jpg) ![QR कोड](https://github.com/himalikiran/A-Concept-Document-for-Fuel-Distribution-System/blob/gh-pages/images/qr-code.png)
 
-*ग्राफिक्सका लागि @rochan_ लाई धन्यावाद!*
+*ग्राफिक्सका लागि [@rochan_](https://twitter.com/rochan_) लाई धन्यावाद!*
